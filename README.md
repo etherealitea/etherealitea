@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey there!  
+> This is a top secret GitHub account. If you accidentally or by fate stumbled upon it, let me know by opening an issue!  
 
-<!--
-**etherealitea/etherealitea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Upcoming Series  
+*How to Not Sob When Your Code Doesn't Work*  
+A humorous take on surviving the wild world of coding and debugging.  
 
-Here are some ideas to get you started:
+## About Me  
+I’m a 19-year-old programmer who loves cats and tulips.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills  
+`HTML` `CSS` `JavaScript` `C++` `C`  
+
+## Reach Out  
+Feel free to open an issue with "Hey there!" if you found your way here. Always up for a chat!  
