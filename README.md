@@ -1,22 +1,62 @@
-# etherealitea
-> A secret corner where code purrs and tulips bloom.  
+# 🌷 etherealitea
+> a soft, surreal corner of the internet where pink pixels dream,  
+> lavender echoes hum through the code,  
+> and cats guard the source files. 
 
-## Upcoming Series
-*How to Not Sob When Your Code Doesn't Work*  
-A whimsical, slightly tragic take on debugging — existential semicolons, misplaced parentheses, and tiny miracles hidden in the console logs.  
+## 🌙 **Upcoming Series**
+### **_How to Not Sob When Your Code Doesn’t Work_**  
+a tragicomedy told through:
+- existential error messages  
+- misplaced parentheses  
+- forgotten semicolons  
+- and the small spark of hope reborn through `console.log()`  
 
-## About Me
-I’m a 20-year-old programmer who:
-- adores cats 🐾  
-- sees the world in shades of baby pink & lavender  
-- believes even bugs deserve a soft spotlight  
+✨ *episode 1 drops when my brain stops melting*
 
-## Skills
-`Honestly idek, but I press keys and magic happens ✨`  
 
-## Reach Out
-Stumbled here by accident? Open an issue with "Hey there!" — I might reply with a cat pun, a snippet of code, or a tiny cryptic haiku.  
+## 🌸 **About Me**
+hi, i’m zainab —  
+20 · cat-coded · pink panther energy 🌸💖🐾  
 
-*work in progress. always.*
-> *“This isn’t a portfolio. It’s a projection.”*
-> — **etherealitea**
+i wander between:
+- baby pink & lavender color palettes  
+- silent tabs of VS Code at 2AM  
+- the soft belief that bugs are not mistakes…  
+  they’re **unrealized stories** waiting for direction ✨  
+
+## 💫 **Skills**
+`uhh idk but somehow things compile?? ✨`  
+- good at petting cats  
+- great at crying over code aesthetically  
+- average at debugging but excellent at suffering  
+
+*(also Python, C++, JS but shhh that ruins the magic)*
+
+
+## 🐾 **Projects (soft WIP)**
+- tiny universes written in code  
+- scripts that feel like diary entries  
+- small experiments dipped in pink light  
+- half-working things i’m emotionally attached to  
+
+## 💌 **Reach Out**
+if you found this place by fate,  
+open an issue with **"Hey there!"**  
+
+you MAY receive:
+- a cat pun  
+- a mystical snippet of code  
+- a tiny tulip  
+- or a lavender-scented haiku  
+
+no promises. this realm has its own mood.
+
+
+## 🌸 **Current Status**
+```python
+currently_executing = glam_up(miserableness)
+```
+
+🎀 work in progress. always.
+
+> “this isn’t a portfolio. it’s a projection.” — etherealitea 🌸
