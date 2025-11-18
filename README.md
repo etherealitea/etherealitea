@@ -1,15 +1,22 @@
-# Hey there!  
-> This is a top secret GitHub account. If you accidentally or by fate stumbled upon it, let me know by opening an issue!  
+# etherealitea
+> A secret corner where code purrs and tulips bloom.  
 
-## Upcoming Series  
+## Upcoming Series
 *How to Not Sob When Your Code Doesn't Work*  
-A humorous take on surviving the wild world of coding and debugging.  
+A whimsical, slightly tragic take on debugging — existential semicolons, misplaced parentheses, and tiny miracles hidden in the console logs.  
 
-## About Me  
-I’m a 20-year-old programmer who loves cats and tulips.  
+## About Me
+I’m a 20-year-old programmer who:
+- adores cats 🐾  
+- sees the world in shades of baby pink & lavender  
+- believes even bugs deserve a soft spotlight  
 
-## Skills  
-`honestly idek`  
+## Skills
+`Honestly idek, but I press keys and magic happens ✨`  
 
-## Reach Out  
-Feel free to open an issue with "Hey there!" if you found your way here. Always up for a chat!  
+## Reach Out
+Stumbled here by accident? Open an issue with "Hey there!" — I might reply with a cat pun, a snippet of code, or a tiny cryptic haiku.  
+
+*work in progress. always.*
+> *“This isn’t a portfolio. It’s a projection.”*
+> — **etherealitea**
