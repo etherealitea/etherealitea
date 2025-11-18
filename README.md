@@ -6,10 +6,10 @@
 A humorous take on surviving the wild world of coding and debugging.  
 
 ## About Me  
-I’m a 19-year-old programmer who loves cats and tulips.  
+I’m a 20-year-old programmer who loves cats and tulips.  
 
 ## Skills  
-`HTML` `CSS` `JavaScript` `C++` `C`  
+`honestly idek`  
 
 ## Reach Out  
 Feel free to open an issue with "Hey there!" if you found your way here. Always up for a chat!  
