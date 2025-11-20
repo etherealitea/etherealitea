@@ -1,3 +1,5 @@
+![ETHEREALITEA](https://github.com/user-attachments/assets/f285f545-c960-4710-8e2f-e16fff821c18)
+
 # 🌷 etherealitea
 > a soft, surreal corner of the internet where pink pixels dream,  
 > lavender echoes hum through the code,  
